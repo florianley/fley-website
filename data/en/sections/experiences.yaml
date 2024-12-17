@@ -11,6 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Université Laval
+    url: "https://www.ulaval.ca/"
+    location: Montreal, Canada
+    logo: "images/sections/experiences/Université_Laval_logo_et_texte.svg.png"
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company1.jpg
+    # company overview
+    #overview: Université Laval is a leading academic institution in Canada, known for its diverse research and educational programs.
+  positions:
+  - designation: Business Analyst
+    start: May 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Study of internal processes within the Faculty of Social Sciences at Université Laval in Quebec.
+    - Mapping processes related to the monitoring of graduate-level students.
+
+- company:
     name: Davidson Canada
     url: "https://www.davidson.group/nos-filiales/davidson-canada"
     location: Montréal Canada
