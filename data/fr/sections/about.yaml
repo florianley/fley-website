@@ -1,0 +1,104 @@
+# section information
+section:
+  name: A propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Product Owner
+# your company information
+company:
+  name: Davidson Canada
+  url: "https://www.davidson.group/nos-filiales/davidson-canada"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+#resume: "files/Florian_LEY.pdf"
+
+# a summary about you
+summary: "Depuis mon intégration chez Davidson Canada en 2021 en tant que Product Owner et Business Analyst pour Bell, j'ai pris en charge la gestion du développement et du support des applications Web internes de Bell. Au cours de mes missions chez Worldline puis chez Davidson Canada, j'ai eu l'occasion de travailler sur divers projets pour des clients aussi variés que Bell, la ville de Paris, l'Ile-de-France Mobilité, ce qui m'a permis d'élargir mes compétences techniques (développement, hébergement, exploitation) et organisationnelles (gestion de projet, méthodologies Agiles)."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "florian.ley15@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/florianley"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/florian-ley/"
+
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+#- name: Mastadon
+#  icon: "fab fa-mastodon"
+#  url: "#"
+#  rel: "me noopener"
+
+#- name: ResearchGate
+#  icon: "fab fa-researchgate"
+#  url: "https://www.researchgate.net/profile/john-doe"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "Mon CV"
+  url: "files/Florian_LEY.resume.html"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: PSPO I
+  url: "https://www.scrum.org/user/1130462"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_40pspo_i.png"
+
+- type: certification
+  name: Professional Scrum Master™ I Certification
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png"
+
+- type: certification
+  name: Cloud Digital Leader Certification
+  url: "https://www.credly.com/badges/de742a76-573d-48b4-b05c-e1fc84b5859d/public_url"
+  badge: "https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Flexibilité et adaptabilité
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Résolution de problèmes
+  percentage: 90
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

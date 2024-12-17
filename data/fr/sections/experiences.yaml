@@ -1,0 +1,181 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Davidson Canada
+    url: "https://www.davidson.group/nos-filiales/davidson-canada"
+    location: Montréal Canada
+    logo: /images/sections/experiences/davidson_canada.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company1.jpg
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Directeur de projets Equipe rédaction des appels d'offres
+    start: Juillet 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Le Studio de développement de Davidson Canada répond aux appels d'offres du Quebec afin de mettre à disposition aux clients de Davidson Canada des produits répondant à leurs besoins stratégique. L'objectif est de sélectionner les appels d'offres en adéquations avec les compétences de Davidson Canada, coordonner les équipes en termes de rédaction des solutions proposées et apporter du support technique et fonctionnel aux solutions proposées
+    - Analyser quotidiennement la faisabilité de chaque appel d'offres déposés sur les plateformes dédiées
+    - Positionnement sur les appels d'offres en adéquation avec les compétences de Davidson Canada
+    - Répartitions des taches à réaliser entre les membre de l'équipe dédiée aux appels d'offres
+    - Rédaction des supports technique et fonctionnels contenant le présentation de l'entreprise, les références de Davidson Canada, la méthodologie employée pour la mise en place du mandat, la solution technique et les différents bordereaux de prix.
+    - Évaluer et relever les défis des diverses offres d'hébergement cloud proposées par des partenaires tels que GCP, Azure ou encore OVH.
+    - Présentation des offres en soutenance
+    - Planification et organisation de module et présentation en internes avec des Architectes cloud Davidson afin de renforcer le partenariat cloud entre Davidson et Google
+    
+
+- company:
+    name: Bell
+    url: "https://www.bell.ca/Accueil"
+    location: Montréal Canada
+    logo: /images/sections/experiences/bell.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company2.jpg
+    # overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Product Owner / Business Analyst
+    start: Juillet 2021
+    end: Juillet 2023
+    responsibilities:
+    - SmartPath est une application interne à Bell, utilisée par des milliers d'agents à travers le Canada, qui fournit un support et un suivi des demandes client. Son objectif principal est d'optimiser l'assignation des requêtes en les attribuant aux agents ayant les compétences requises. De plus, l'application aide les agents à communiquer avec les clients en leur fournissant des modèles de courrier électronique prédéfinis. SmartPath facilite ainsi la gestion efficace des demandes client en permettant une assignation ciblée et en simplifiant la communication avec les clients via des modèles de mails adaptés.
+    - Analyser et évaluer les besoins clients, diagnostiquer les problèmes et établir des recommandations documentées pour la priorisation et la planification des demandes
+    - Effectuer l'inspection et l'adaptation des besoins, suivre les indicateurs pour l'amélioration des outils en collaboration avec toutes les parties prenantes,
+    - Coordonner les ressources et moyens affectés au projet, suivre les timelines et budgets en fonction des priorités, et garantir le respect du calendrier et des standards de qualité,
+    - Rédiger les cahiers de tests, réaliser les tests fonctionnels, et participer au contrôle de qualité avec les équipes de tests, 
+    - Veille ergonomique et technologique avant chaque étape de conception,
+    - Produire la documentation relative au fonctionnement technique et fonctionnel du produit,
+    - Participer au contrôle de qualité avec les équipes de tests, 
+    - Mettre en place des tableaux de bord pour le suivi de l’avancée des travaux entrepris par l’équipe de développement,
+    - Définir les objectifs produit à atteindre en fin d'itération avec les équipes de développement en phase de planification,
+    - Elaborer en équipes de definition of ready et definition of done des fonctionnalités produit,
+    - Elaboration des solutions techniques en collaboration avec les expert technique et architectes des besoins fonctionnels
+
+- company:
+    name: Worldline Global
+    url: "https://worldline.com/"
+    location: Villeurbanne France
+    logo: /images/sections/experiences/worldline.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Chargé de projets : Normes européennes DSP2"
+    start: Juillet 2020
+    end: Juillet 2020
+    responsibilities:
+    - Suivi et support auprès d’organismes Bancaires Européens pour le déploiement d’un outil de mise en conformité suite aux nouvelles règles imposées par l’Union Européenne DSP2 (Directive sur les Services de Paiement 2) afin de sécuriser les paiements en ligne. Équipe de 20 personnes. Le projet ayant une envergure Européenne, tous les échanges et toute la documentation est réalisée en anglais.
+    - Rédaction des spécifications et intégration à travers l’outil confluence
+    - Extraire les informations de type Swagger pour insertion sur une interface Drupal, procéder à la Dockerization des services, et mettre en ligne en tenant compte des recommandations documentées et des processus d'affaires
+    - Suivre l’intégration puis mise en production des services développés en Java SpringBoot via des outils d’intégration continue tels que GitLab CI
+    - Exploitation des services directement grâce aux logs depuis les machines ou indicateurs via Kibana
+    - Améliorer les différents processus méthodologiques, caractérisés par la mise en place d’indicateurs de performances Jira ou via cérémonies Agiles (rétrospectives, etc.), et guider les équipes de développement dans leurs analyses
+    - Assurer le support technique auprès des banques européennes via la mise en place de points de suivi réguliers, avec présentations des outils, tutoriels et réponses aux questions, et former les clients internes sur les nouvelles fonctionnalités et systèmes.
+
+- company:
+    name: Worldline Global - BANQUE LAZARD
+    url: "https://worldline.com/"
+    location: Villeurbanne France
+    logo: /images/sections/experiences/lazard.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Product Owner : Application mobile Lazard Frères Banque"
+    start: Janvier 2021
+    end: Juin 2021
+    responsibilities:
+    - Développement de l'application mobile de la banque Lazard.
+    - Analyser et estimer les charges
+    - Concevoir l'architecture du projet, en prenant en compte la volumétrie d'utilisation de l'application estimée par la banque pendant la phase d'avant-vente
+    - Rédiger les spécifications techniques sous Confluence, incluant les diagrammes de séquences sous Plant UML, pour documenter de manière détaillée les fonctionnalités et les applications du projet
+    - Découper les tâches en stories Jira, en vue de leur réalisation dans le cadre du portefeuille de projets TI, tout en documentant les processus d'affaires pour leur automatisation
+    - Coordonner et animer les comités de pilotage avec la banque, en utilisant les gabarits de gestion de projet de l'organisation (charte de projet, états d'avancement, plan)
+    - Support technique pour les phases de validation des normes lors des audits de sécurité
+    - Organiser les séances de raffinementet de rétrospectives, pour évaluer et ajuster continuellement les besoins et les progrès du projet, tout en guidant les équipes de développement dans leurs analyses.
+
+
+- company:
+    name: Worldline Global - ÎLE DE FRANCE MOBILITÉS
+    url: "https://worldline.com/"
+    location: Villeurbanne France
+    logo: /images/sections/experiences/idfm.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Chargé de projets"
+    start: Février 2019
+    end: Août 2020
+    responsibilities:
+    - Mise en place d’un système de facturation pour le projet de modernisation de la billettique des transports de Paris pour 2024.
+    - Présenter le projet et ses caractéristiques fonctionnelles, suite à l'appel d'offre remporté par Worldline, devant les responsables de la SNCF et des transports en commun de la ville de Paris
+    - Calculer et suivre les coûts des projets, organiser en équipe la création d'une Story Map pour prioriser les tâches
+    - Rédiger les spécifications en partenariat avec les Architectes logiciels Worldline et les différents prestataires, en utilisant l'outil Confluence
+    - Suivre la réalisation d'un banc de test et d'intégration industrialisé de la solution, y compris le développement de benchs de tests en Node.js et la mise en place d'outils d'intégration continue tels que Gitlab-Ci ou Jenkins
+    - Préparer les sprints de développement et les différentes cérémonies Agiles pour un déroulement de projet divisé en plusieurs sprints
+    - Présenter des démonstrations internes puis aux clients.
+
+
+- company:
+    name: Worldline Global - ORANGE (OPÉRATEUR TÉLÉCOMMUNICATIONS)
+    url: "https://www.example.com"
+    location: Villeurbanne France
+    logo: /images/sections/experiences/orange.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Product Owner"
+    start: Décembre 2017
+    end: Décembre 2019
+    responsibilities:
+    - Gestion de projet dans une équipe de 5 personnes de décommissionnement et internalisation de services Worldline entre Orange et partenaires externes (Fnac – Deezer – Microsoft …).
+    - Analyser et évaluer les besoins des équipes partenaires pour le décommissionnement des services
+    - Coordonner le suivi de la production et des réalisations des équipes de développement
+    - Réaliser des études d'impact sur la refonte de la méthodologie projet, suite aux diverses rétrospectives mises en place, avec l'objectif de renforcer la relation entre Worldline et Orange
+    - Rédiger et évaluer les exigences pour la revue des workflows Jira, en mettant en place des indicateurs de performances pour analyser et améliorer la productivité des équipes Worldline et Orange.
+
+- company:
+    name: Worldline Global - ORANGE (OPÉRATEUR TÉLÉCOMMUNICATIONS)
+    url: "https://worldline.com/"
+    location: Villeurbanne France
+    logo: /images/sections/experiences/orange.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Responsable d'applications"
+    start: Novembre 2016
+    end: Décembre 2017
+    responsibilities:
+    - Développements des applications mobiles Orange (Ma Livebox – Cineday…)
+    - Analyser et évaluer les besoins spécifiques au développement d’un système de centralisation de souscription et paiement du catalogue d’offres Orange
+    - Suivre le déploiement des applications via les outils spécifiques Orange
+    - Support niveau 3, impliquant une analyse des comportements anormaux de l’application remontées par les clients finaux
+
+- company:
+    name: IN-CORE Systemes
+    url: "https://www.incore-systemes.com/"
+    location: Saint Priest France
+    logo: /images/sections/experiences/Incore-Systemes.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/experiences/company3.jpg
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: "Apprenti ingénieur informatique"
+    start: Septembre 2013
+    end: Septembre 2016
+    responsibilities:
+    - Conduite de projets; développement systèmes temps réel Linux

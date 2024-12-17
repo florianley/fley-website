@@ -8,93 +8,93 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Product Owner
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Davidson Canada
+  url: "https://www.davidson.group/nos-filiales/davidson-canada"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
-# resume: "files/resume.pdf"
+#resume: "files/Florian_LEY.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "Since joining Davidson Canada in 2021 as a Product Owner and Business Analyst for Bell, I have been responsible for managing the development and support of Bell's internal web applications. During my assignments at Worldline and then Davidson Canada, I had the opportunity to work on various projects for clients as diverse as Bell, the City of Paris, and Ile-de-France Mobilité, which allowed me to broaden my technical (development, hosting, operations) and organizational (project management, Agile methodologies) skills"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "florian.ley15@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/florianley"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/florian-ley/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+#- name: Mastadon
+#  icon: "fab fa-mastodon"
+#  url: "#"
+#  rel: "me noopener"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+#- name: ResearchGate
+#  icon: "fab fa-researchgate"
+#  url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Florian_LEY.resume.html"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: PSPO I
+  url: "https://www.scrum.org/user/1130462"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_40pspo_i.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
+  name: Professional Scrum Master™ I Certification
   url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Cloud Digital Leader Certification
+  url: "https://www.credly.com/badges/de742a76-573d-48b4-b05c-e1fc84b5859d/public_url"
+  badge: "https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 90
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: Flexibility and adaptability
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Problem-solving
+  percentage: 90
   color: orange
 
 # you can also provide color code instead of the color name

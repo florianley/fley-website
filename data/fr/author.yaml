@@ -1,0 +1,21 @@
+# some information about you
+name: "Florian LEY"
+nickname: "Florian LEY"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/Florian1.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "florian.ley15@gmail.com"
+  phone: "+1 (438) 499-7444"
+  github: florianley
+  linkedin: florian-ley/
+  #researchgate: john-doe
+
+# some summary about what you do
+summary:
+  - Je suis Product Owner
+  - Je suis Analyst fonctionnel
+  - Je suis directeur de projets
+  - Je suis fan de Google Cloud
+  - Je suis Batman
