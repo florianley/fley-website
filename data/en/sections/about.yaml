@@ -78,6 +78,11 @@ badges:
   badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png"
 
 - type: certification
+  name: CAWS Certified Cloud Practitioner
+  url: "https://www.credly.com/badges/82ea84db-0806-4017-8a41-76b829129a87"
+  badge: "https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+
+- type: certification
   name: Cloud Digital Leader Certification
   url: "https://www.credly.com/badges/de742a76-573d-48b4-b05c-e1fc84b5859d/public_url"
   badge: "https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png"
