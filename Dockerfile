@@ -1,5 +1,6 @@
 # Étape 1 : Utiliser l'image de base Hugomods Hugo
-FROM hugomods/hugo:latest as build
+FROM klakegg/hugo:0.101.0-ext AS build
+
 
 # Définir le répertoire de travail
 WORKDIR /src
