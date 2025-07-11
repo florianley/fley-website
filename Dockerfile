@@ -1,5 +1,5 @@
 # Étape 1 : Utiliser l'image de base Hugomods Hugo
-FROM klakegg/hugo:0.101.0-ext AS build
+FROM hugomods/hugo:0.128.0 as build
 
 
 # Définir le répertoire de travail
