@@ -13,6 +13,7 @@ RUN hugo mod tidy && \
     hugo mod npm pack && \
     npm install && \
     hugo && \
+    ls -la /src && \
     ./google_analytic_update.sh
 
 # Étape 2 : Utiliser Nginx pour servir les fichiers générés
